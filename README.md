@@ -1,3 +1,5 @@
+This is still work in progress...
+
 Project to test the audio-api. Currently the code "audiocontext.js" takes in a single audio file and uses the arraybuffer to store it using XMLHttpRequest
 
 The sound file resides in the folder itself. If you want to change the audio file, please change the audio file name in the "audiocontext.js" script file
