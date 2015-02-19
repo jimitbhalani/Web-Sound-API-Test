@@ -6,4 +6,4 @@ The audio file name can be changed in the init function under XMLHttpRequest ope
 
 The project contains a basic html file to play, stop and control the volume of the sound file
 
-Run the HTML file!!
+Run the HTML file. I was facing some issues trying to run it in chrome. I am trying to fix that. It works fine on Firefox
